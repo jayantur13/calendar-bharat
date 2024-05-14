@@ -6,8 +6,8 @@ Collective data of months of bharat's calendar (Indian calendar)
 
 ## This page is live at
 
-- For website https://jayantur13.github.io/calendar-bharat
-- For calendar https://jayantur13.github.io/calendar-bharat/calendar/2024.json (or 2025 etc)
+- For website [https://jayantur13.github.io/calendar-bharat/](https://jayantur13.github.io/calendar-bharat/)
+- For calendar [https://jayantur13.github.io/calendar-bharat/calendar/2024.json](https://jayantur13.github.io/calendar-bharat/calendar/2024.json) (or 2025 etc)
 
 ## Features
 

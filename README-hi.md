@@ -6,8 +6,8 @@
 
 ## यह पेज लाईव है
 
-- वैबसाइट के लिए https://jayantur13.github.io/calendar-bharat
-- कलेंडर के लिए https://jayantur13.github.io/calendar-bharat/calendar/2024.json (2025 आदि)
+- वैबसाइट के लिए [https://jayantur13.github.io/calendar-bharat/](https://jayantur13.github.io/calendar-bharat)
+- कलेंडर के लिए [https://jayantur13.github.io/calendar-bharat/calendar/2024.json](https://jayantur13.github.io/calendar-bharat/calendar/2024.json) (2025 आदि)
 
 ## विशेषताएँ
 
