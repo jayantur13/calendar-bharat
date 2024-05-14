@@ -4,6 +4,11 @@
 
 #### इस फ़ाइल को [अंग्रेजी मे पढ़े](https://github.com/jayantur13/calendar-bharat/blob/master/README.md)
 
+## यह पेज लाईव है
+
+- वैबसाइट के लिए https://jayantur13.github.io/calendar-bharat
+- कलेंडर के लिए https://jayantur13.github.io/calendar-bharat/calendar/2024.json (2025 आदि)
+
 ## विशेषताएँ
 
 - कुछ अलग दिन की जानकारी (जैसे राष्ट्रीय युवा दिवस)

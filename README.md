@@ -4,6 +4,11 @@ Collective data of months of bharat's calendar (Indian calendar)
 
 #### Click [Hindi Readme](https://github.com/jayantur13/calendar-bharat/blob/master/README-hi.md) for readme in hindi language
 
+## This page is live at
+
+- For website https://jayantur13.github.io/calendar-bharat
+- For calendar https://jayantur13.github.io/calendar-bharat/calendar/2024.json (or 2025 etc)
+
 ## Features
 
 - Good to know days (like National Youth Day)
@@ -23,7 +28,7 @@ Read all the changes made [here](https://github.com/jayantur13/calendar-bharat/b
 
 Contributions are always welcome!
 
-See [contributing.md](https://github.com/jayantur13/calendar-bharat/blob/master/CONTRIBUTING.md)for ways to get started.
+See [contributing.md](https://github.com/jayantur13/calendar-bharat/blob/master/CONTRIBUTING.md) for ways to get started.
 
 Please adhere to this project's [code of conduct](https://github.com/jayantur13/calendar-bharat/blob/master/CODE_OF_CONDUCT.md).
 
