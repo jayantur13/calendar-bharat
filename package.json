@@ -1,0 +1,30 @@
+{
+  "name": "calendar-bharat",
+  "version": "1.0.0",
+  "description": "The calendar covers Indian festivals, govt. holidays & other events",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --env-file=.env index.js",
+    "dev": "nodemon --env-file=.env index.js"
+  },
+  "keywords": [
+    "calendar",
+    "indian calendar",
+    "india calendar",
+    "latest calendar",
+    "calendar api",
+    "calendar node package",
+    "hindu calendar",
+    "calendar bharat"
+  ],
+  "author": "Jayant Navrange",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

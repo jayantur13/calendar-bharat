@@ -1,0 +1,413 @@
+{
+  "2025": {
+    "January 2025": {
+      "January 1, 2025, Wednesday": {
+        "event": "English New Year",
+        "type": "Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 6, 2025, Monday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Festival",
+        "extras": "Pausha, Shukla Saptami"
+      },
+      "January 10, 2025, Friday": {
+        "event": "Tailang Swami Jayanti",
+        "type": "Festival",
+        "extras": "Pausha, Shukla Ekadashi"
+      },
+      "January 12, 2025, Sunday": {
+        "event": "National Youth Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 13, 2025, Monday": {
+        "event": "Lohri",
+        "type": "Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 14, 2025, Tuesday": {
+        "event": "Pongal",
+        "type": "Festival",
+        "extras": "on Makara Sankranti day"
+      },
+      "January 21, 2025, Tuesday": {
+        "event": "Vivekananda Jayanti *Samvat",
+        "type": "Festival",
+        "extras": "Magha, Krishna Saptami"
+      },
+      "January 23, 2025, Thursday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 26, 2025, Sunday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 30, 2025, Thursday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "February 2025": {
+      "February 2, 2025, Sunday": {
+        "event": "Vasant Panchami",
+        "type": "Festival",
+        "extras": "Magha, Shukla Panchami"
+      },
+      "February 4, 2025, Tuesday": {
+        "event": "World Cancer Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 12, 2025, Wednesday": {
+        "event": "Guru Ravidas Jayanti",
+        "type": "Festival",
+        "extras": "Magha, Shukla Purnima"
+      },
+      "February 14, 2025, Friday": {
+        "event": "Valentine's Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 19, 2025, Wednesday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 23, 2025, Sunday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      },
+      "February 26, 2025, Wednesday": {
+        "event": "Maha Shivaratri",
+        "type": "Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      }
+    },
+    "March 2025": {
+      "March 1, 2025, Saturday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
+      },
+      "March 8, 2025, Saturday": {
+        "event": "International Women's Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 13, 2025, Thursday": {
+        "event": "Holika Dahan",
+        "type": "Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      },
+      "March 14, 2025, Friday": {
+        "event": "Holi",
+        "type": "Festival",
+        "extras": "Chaitra, Krishna Pratipada"
+      },
+      "March 17, 2025, Monday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 20, 2025, Thursday": {
+        "event": "Parsi New Year",
+        "type": "Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 23, 2025, Sunday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 28, 2025, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "March 30, 2025, Sunday": {
+        "event": "Jhulelal Jayanti",
+        "type": "Festival",
+        "extras": "Chaitra, Shukla Pratipada/Dwitiya"
+      },
+      "March 31, 2025, Monday": {
+        "event": "Ramadan",
+        "type": "Festival",
+        "extras": "based on Islamic calendar"
+      }
+    },
+    "April 2025": {
+      "April 1, 2025, Tuesday": {
+        "event": "Bank's Holiday",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 6, 2025, Sunday": {
+        "event": "Rama Navami",
+        "type": "Festival",
+        "extras": "Chaitra, Shukla Navami"
+      },
+      "April 10, 2025, Thursday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      },
+      "April 14, 2025, Monday": {
+        "event": "Baisakhi",
+        "type": "Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 18, 2025, Friday": {
+        "event": "Good Friday",
+        "type": "Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 20, 2025, Sunday": {
+        "event": "Easter",
+        "type": "Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 22, 2025, Tuesday": {
+        "event": "Earth Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 24, 2025, Thursday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      }
+    },
+    "May 2025": {
+      "May 1, 2025, Thursday": {
+        "event": "International Workers' Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 2, 2025, Friday": {
+        "event": "Surdas Jayanti",
+        "type": "Festival",
+        "extras": "Vaishakha, Shukla Panchami"
+      },
+      "May 4, 2025, Sunday": {
+        "event": "World Laughter Day",
+        "type": "Festival",
+        "extras": "1st Sunday of May"
+      },
+      "May 7, 2025, Wednesday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 11, 2025, Sunday": {
+        "event": "Mother's Day",
+        "type": "Festival",
+        "extras": "2nd Sunday of May"
+      },
+      "May 12, 2025, Monday": {
+        "event": "Buddha Purnima",
+        "type": "Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      },
+      "May 29, 2025, Thursday": {
+        "event": "Maharana Pratap Jayanti",
+        "type": "Festival",
+        "extras": "Jyeshtha, Shukla Tritiya"
+      },
+      "May 31, 2025, Saturday": {
+        "event": "World No Tobacco Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2025": {
+      "June 5, 2025, Thursday": {
+        "event": "World Environment Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 7, 2025, Saturday": {
+        "event": "Bakrid",
+        "type": "Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "June 11, 2025, Wednesday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      },
+      "June 15, 2025, Sunday": {
+        "event": "Father's Day",
+        "type": "Festival",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2025, Saturday": {
+        "event": "International Yoga Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 27, 2025, Friday": {
+        "event": "Islamic New Year",
+        "type": "Festival",
+        "extras": "based on Islamic calendar"
+      }
+    },
+    "July 2025": {
+      "July 6, 2025, Sunday": {
+        "event": "Muharram",
+        "type": "Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "July 10, 2025, Thursday": {
+        "event": "Guru Purnima",
+        "type": "Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      },
+      "July 31, 2025, Thursday": {
+        "event": "Tulsidas Jayanti",
+        "type": "Festival",
+        "extras": "Shravana, Shukla Saptami"
+      }
+    },
+    "August 2025": {
+      "August 3, 2025, Sunday": {
+        "event": "Friendship Day",
+        "type": "Festival",
+        "extras": "1st Sunday of August"
+      },
+      "August 9, 2025, Saturday": {
+        "event": "Rakhi",
+        "type": "Festival",
+        "extras": "Shravana, Shukla Purnima"
+      },
+      "August 15, 2025, Friday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 16, 2025, Saturday": {
+        "event": "Janmashtami *ISKCON",
+        "type": "Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 27, 2025, Wednesday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      }
+    },
+    "September 2025": {
+      "September 5, 2025, Friday": {
+        "event": "Teachers' Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 14, 2025, Sunday": {
+        "event": "Hindi Diwas",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2025, Monday": {
+        "event": "Engineer's Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 22, 2025, Monday": {
+        "event": "Autumnal Equinox",
+        "type": "Festival",
+        "extras": "Astronomy Event"
+      },
+      "September 30, 2025, Tuesday": {
+        "event": "Durga Ashtami",
+        "type": "Festival",
+        "extras": "Ashwina, Shukla Ashtami"
+      }
+    },
+    "October 2025": {
+      "October 1, 2025, Wednesday": {
+        "event": "Maha Navami",
+        "type": "Festival",
+        "extras": "Ashwina, Shukla Navami"
+      },
+      "October 2, 2025, Thursday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 7, 2025, Tuesday": {
+        "event": "Meerabai Jayanti",
+        "type": "Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      },
+      "October 10, 2025, Friday": {
+        "event": "Karwa Chauth",
+        "type": "Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      },
+      "October 20, 2025, Monday": {
+        "event": "Diwali",
+        "type": "Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "October 22, 2025, Wednesday": {
+        "event": "Govardhan Puja",
+        "type": "Festival",
+        "extras": "Kartika, Shukla Pratipada"
+      },
+      "October 23, 2025, Thursday": {
+        "event": "Bhaiya Dooj",
+        "type": "Festival",
+        "extras": "Kartika, Shukla Dwitiya"
+      },
+      "October 27, 2025, Monday": {
+        "event": "Chhath Puja",
+        "type": "Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      }
+    },
+    "November 2025": {
+      "November 5, 2025, Wednesday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Festival",
+        "extras": "Kartika, Shukla Purnima"
+      },
+      "November 14, 2025, Friday": {
+        "event": "Children's Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "December 2025": {
+      "December 1, 2025, Monday": {
+        "event": "World AIDS Day",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 21, 2025, Sunday": {
+        "event": "Shortest Day of Year",
+        "type": "Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2025, Thursday": {
+        "event": "Merry Christmas",
+        "type": "Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 27, 2025, Saturday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Festival",
+        "extras": "Pausha, Shukla Saptami"
+      },
+      "December 30, 2025, Tuesday": {
+        "event": "Tailang Swami Jayanti",
+        "type": "Festival",
+        "extras": "Pausha, Shukla Ekadashi"
+      }
+    }
+  }
+}
