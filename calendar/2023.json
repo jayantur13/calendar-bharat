@@ -1,384 +1,389 @@
 {
-  "2026": {
-    "January 2026": {
-      "January 1, 2026, Thursday": {
+  "2023": {
+    "January 2023": {
+      "January 1, 2023, Sunday": {
         "event": "English New Year",
         "type": "Religional Festival",
         "extras": "first day of Gregorian calendar"
       },
-      "January 2, 2026, Friday": {
-        "event": "Hazarat Ali's Birthday",
+      "January 2, 2023, Monday": {
+        "event": "Tailang Swami Jayanti",
         "type": "Religional Festival",
-        "extras": "based on Islamic calendar"
+        "extras": "Pausha, Shukla Ekadashi"
       },
-      "January 9, 2026, Friday": {
-        "event": "Vivekananda Jayanti *Samvat",
-        "type": "Religional Festival",
-        "extras": "Magha, Krishna Saptami"
-      },
-      "January 12, 2026, Monday": {
+      "January 12, 2023, Thursday": {
         "event": "National Youth Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "January 13, 2026, Tuesday": {
+      "January 14, 2023, Saturday": {
         "event": "Lohri",
         "type": "Religional Festival",
         "extras": "day before Makara Sankranti"
       },
-      "January 14, 2026, Wednesday": {
+      "January 15, 2023, Sunday": {
         "event": "Pongal",
         "type": "Religional Festival",
         "extras": "on Makara Sankranti day"
       },
-      "January 23, 2026, Friday": {
+      "January 23, 2023, Monday": {
         "event": "Subhas Chandra Bose Jayanti",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       },
-      "January 26, 2026, Monday": {
+      "January 26, 2023, Thursday": {
         "event": "Republic Day",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       },
-      "January 30, 2026, Friday": {
+      "January 30, 2023, Monday": {
         "event": "Gandhi Punyatithi",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       }
     },
-    "February 2026": {
-      "February 1, 2026, Sunday": {
-        "event": "Guru Ravidas Jayanti",
-        "type": "Religional Festival",
-        "extras": "Magha, Shukla Purnima"
-      },
-      "February 4, 2026, Wednesday": {
+    "February 2023": {
+      "February 4, 2023, Saturday": {
         "event": "World Cancer Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "February 12, 2026, Thursday": {
-        "event": "Maharishi Dayanand Saraswati Jayanti",
+      "February 5, 2023, Sunday": {
+        "event": "Guru Ravidas Jayanti",
         "type": "Religional Festival",
-        "extras": "Phalguna, Krishna Dashami"
+        "extras": "Magha, Shukla Purnima"
       },
-      "February 14, 2026, Saturday": {
+      "February 14, 2023, Tuesday": {
         "event": "Valentine's Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "February 15, 2026, Sunday": {
+      "February 15, 2023, Wednesday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      },
+      "February 18, 2023, Saturday": {
         "event": "Maha Shivaratri",
         "type": "Religional Festival",
         "extras": "Phalguna, Krishna Chaturdashi"
       },
-      "February 19, 2026, Thursday": {
+      "February 19, 2023, Sunday": {
         "event": "Chhatrapati Shivaji Maharaj Jayanti",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
+      },
+      "February 21, 2023, Tuesday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
       }
     },
-    "March 2026": {
-      "March 3, 2026, Tuesday": {
+    "March 2023": {
+      "March 7, 2023, Tuesday": {
         "event": "Chaitanya Mahaprabhu Jayanti",
         "type": "Religional Festival",
         "extras": "Phalguna, Shukla Purnima"
       },
-      "March 4, 2026, Wednesday": {
-        "event": "Holi",
-        "type": "Religional Festival",
-        "extras": "Chaitra, Krishna Pratipada"
-      },
-      "March 6, 2026, Friday": {
-        "event": "Chhatrapati Shivaji Maharaj Jayanti",
-        "type": "Religional Festival",
-        "extras": "Chaitra, Krishna Tritiya"
-      },
-      "March 8, 2026, Sunday": {
+      "March 8, 2023, Wednesday": {
         "event": "International Women's Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "March 19, 2026, Thursday": {
-        "event": "Gudi Padwa",
+      "March 10, 2023, Friday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
         "type": "Religional Festival",
-        "extras": "Chaitra, Shukla Pratipada"
+        "extras": "Chaitra, Krishna Tritiya"
       },
-      "March 20, 2026, Friday": {
+      "March 21, 2023, Tuesday": {
         "event": "Parsi New Year",
         "type": "Religional Festival",
         "extras": "based on Parsi calendar"
       },
-      "March 23, 2026, Monday": {
+      "March 22, 2023, Wednesday": {
+        "event": "Jhulelal Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada/Dwitiya"
+      },
+      "March 23, 2023, Thursday": {
         "event": "Shaheed Diwas",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       },
-      "March 26, 2026, Thursday": {
-        "event": "Rama Navami *Smarta",
+      "March 30, 2023, Thursday": {
+        "event": "Rama Navami",
         "type": "Religional Festival",
         "extras": "Chaitra, Shukla Navami"
-      },
-      "March 27, 2026, Friday": {
-        "event": "Rama Navami *ISKCON",
-        "type": "Religional Festival",
-        "extras": "Chaitra, Shukla Navami"
-      },
-      "March 31, 2026, Tuesday": {
-        "event": "Mahavir Swami Jayanti",
-        "type": "Religional Festival",
-        "extras": "Chaitra, Shukla Trayodashi"
       }
     },
-    "April 2026": {
-      "April 1, 2026, Wednesday": {
+    "April 2023": {
+      "April 1, 2023, Saturday": {
         "event": "Bank's Holiday",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       },
-      "April 3, 2026, Friday": {
+      "April 4, 2023, Tuesday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      },
+      "April 7, 2023, Friday": {
         "event": "Good Friday",
         "type": "Religional Festival",
         "extras": "based on Christian calendar"
       },
-      "April 5, 2026, Sunday": {
+      "April 9, 2023, Sunday": {
         "event": "Easter",
         "type": "Religional Festival",
         "extras": "based on Christian calendar"
       },
-      "April 13, 2026, Monday": {
-        "event": "Vallabhacharya Jayanti",
-        "type": "Religional Festival",
-        "extras": "Vaishakha, Krishna Ekadashi"
-      },
-      "April 14, 2026, Tuesday": {
+      "April 14, 2023, Friday": {
         "event": "Baisakhi",
         "type": "Religional Festival",
         "extras": "observed on Mesha Sankranti"
       },
-      "April 21, 2026, Tuesday": {
-        "event": "Surdas Jayanti",
+      "April 16, 2023, Sunday": {
+        "event": "Vallabhacharya Jayanti",
         "type": "Religional Festival",
-        "extras": "Vaishakha, Shukla Panchami"
+        "extras": "Vaishakha, Krishna Ekadashi"
       },
-      "April 22, 2026, Wednesday": {
+      "April 21, 2023, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "April 22, 2023, Saturday": {
         "event": "Earth Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
+      },
+      "April 25, 2023, Tuesday": {
+        "event": "Surdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Panchami"
       }
     },
-    "May 2026": {
-      "May 1, 2026, Friday": {
+    "May 2023": {
+      "May 1, 2023, Monday": {
         "event": "International Workers' Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "May 3, 2026, Sunday": {
+      "May 5, 2023, Friday": {
+        "event": "Buddha Purnima",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      },
+      "May 7, 2023, Sunday": {
         "event": "World Laughter Day",
         "type": "Good to know",
         "extras": "1st Sunday of May"
       },
-      "May 7, 2026, Thursday": {
-        "event": "Rabindranath Tagore Jayanti",
-        "type": "Government Holiday",
-        "extras": "fixed day in Gregorian calendar"
-      },
-      "May 10, 2026, Sunday": {
+      "May 14, 2023, Sunday": {
         "event": "Mother's Day",
         "type": "Good to know",
         "extras": "2nd Sunday of May"
       },
-      "May 27, 2026, Wednesday": {
-        "event": "Bakrid",
+      "May 22, 2023, Monday": {
+        "event": "Maharana Pratap Jayanti",
         "type": "Religional Festival",
-        "extras": "based on Islamic calendar"
+        "extras": "Jyeshtha, Shukla Tritiya"
       },
-      "May 31, 2026, Sunday": {
+      "May 31, 2023, Wednesday": {
         "event": "World No Tobacco Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       }
     },
-    "June 2026": {
-      "June 5, 2026, Friday": {
+    "June 2023": {
+      "June 4, 2023, Sunday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      },
+      "June 5, 2023, Monday": {
         "event": "World Environment Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "June 17, 2026, Wednesday": {
-        "event": "Islamic New Year",
-        "type": "Religional Festival",
-        "extras": "based on Islamic calendar"
-      },
-      "June 21, 2026, Sunday": {
-        "event": "International Yoga Day",
+      "June 18, 2023, Sunday": {
+        "event": "Father's Day",
         "type": "Good to know",
-        "extras": "fixed day in Gregorian calendar"
+        "extras": "3rd Sunday of June"
       },
-      "June 26, 2026, Friday": {
-        "event": "Muharram",
-        "type": "Religional Festival",
-        "extras": "based on Islamic calendar"
-      },
-      "June 29, 2026, Monday": {
-        "event": "Kabirdas Jayanti",
-        "type": "Religional Festival",
-        "extras": "Jyeshtha, Shukla Purnima"
-      }
-    },
-    "July 2026": {
-      "July 16, 2026, Thursday": {
+      "June 20, 2023, Tuesday": {
         "event": "Jagannath Rathyatra",
         "type": "Religional Festival",
         "extras": "Ashadha, Shukla Dwitiya"
       },
-      "July 29, 2026, Wednesday": {
+      "June 21, 2023, Wednesday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 29, 2023, Thursday": {
+        "event": "Bakrid",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      }
+    },
+    "July 2023": {
+      "July 3, 2023, Monday": {
         "event": "Guru Purnima",
         "type": "Religional Festival",
         "extras": "Ashadha, Shukla Purnima"
+      },
+      "July 19, 2023, Wednesday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "July 28, 2023, Friday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
       }
     },
-    "August 2026": {
-      "August 2, 2026, Sunday": {
+    "August 2023": {
+      "August 6, 2023, Sunday": {
         "event": "Friendship Day",
         "type": "Good to know",
         "extras": "1st Sunday of August"
       },
-      "August 15, 2026, Saturday": {
+      "August 15, 2023, Tuesday": {
         "event": "Independence Day",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       },
-      "August 19, 2026, Wednesday": {
+      "August 23, 2023, Wednesday": {
         "event": "Tulsidas Jayanti",
         "type": "Religional Festival",
         "extras": "Shravana, Shukla Saptami"
       },
-      "August 26, 2026, Wednesday": {
-        "event": "Eid-e-Milad",
+      "August 29, 2023, Tuesday": {
+        "event": "Onam",
         "type": "Religional Festival",
-        "extras": "based on Islamic calendar"
+        "extras": "Sun in Simha & Shravana Nakshatra"
       },
-      "August 28, 2026, Friday": {
+      "August 30, 2023, Wednesday": {
         "event": "Rakhi",
         "type": "Religional Festival",
         "extras": "Shravana, Shukla Purnima"
       }
     },
-    "September 2026": {
-      "September 4, 2026, Friday": {
-        "event": "Krishna Janmashtami",
-        "type": "Religional Festival",
-        "extras": "Bhadrapada, Krishna Ashtami"
-      },
-      "September 5, 2026, Saturday": {
+    "September 2023": {
+      "September 5, 2023, Tuesday": {
         "event": "Teachers' Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "September 14, 2026, Monday": {
+      "September 6, 2023, Wednesday": {
+        "event": "Janmashtami *Smarta",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "September 7, 2023, Thursday": {
+        "event": "Janmashtami *ISKCON",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "September 14, 2023, Thursday": {
         "event": "Hindi Diwas",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "September 15, 2026, Tuesday": {
+      "September 15, 2023, Friday": {
         "event": "Engineer's Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "September 23, 2026, Wednesday": {
+      "September 19, 2023, Tuesday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      },
+      "September 23, 2023, Saturday": {
         "event": "Autumnal Equinox",
         "type": "Religional Festival",
         "extras": "Astronomy Event"
+      },
+      "September 27, 2023, Wednesday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
       }
     },
-    "October 2026": {
-      "October 2, 2026, Friday": {
+    "October 2023": {
+      "October 2, 2023, Monday": {
         "event": "Gandhi Jayanti",
         "type": "Government Holiday",
         "extras": "fixed day in Gregorian calendar"
       },
-      "October 11, 2026, Sunday": {
+      "October 15, 2023, Sunday": {
         "event": "Maharaja Agrasen Jayanti",
         "type": "Religional Festival",
         "extras": "Ashwina, Shukla Pratipada"
       },
-      "October 19, 2026, Monday": {
+      "October 22, 2023, Sunday": {
+        "event": "Durga Ashtami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Ashtami"
+      },
+      "October 23, 2023, Monday": {
         "event": "Maha Navami",
         "type": "Religional Festival",
         "extras": "Ashwina, Shukla Navami"
       },
-      "October 20, 2026, Tuesday": {
-        "event": "Dussehra",
-        "type": "Religional Festival",
-        "extras": "Ashwina, Shukla Dashami"
-      },
-      "October 21, 2026, Wednesday": {
+      "October 24, 2023, Tuesday": {
         "event": "Madhvacharya Jayanti",
         "type": "Religional Festival",
         "extras": "Ashwina, Shukla Dashami"
       },
-      "October 26, 2026, Monday": {
+      "October 28, 2023, Saturday": {
         "event": "Meerabai Jayanti",
         "type": "Religional Festival",
         "extras": "Ashwina, Shukla Purnima"
-      },
-      "October 29, 2026, Thursday": {
+      }
+    },
+    "November 2023": {
+      "November 1, 2023, Wednesday": {
         "event": "Karwa Chauth",
         "type": "Religional Festival",
         "extras": "Kartika, Krishna Chaturthi"
-      }
-    },
-    "November 2026": {
-      "November 8, 2026, Sunday": {
+      },
+      "November 12, 2023, Sunday": {
         "event": "Diwali",
         "type": "Religional Festival",
         "extras": "Kartika, Krishna Amavasya"
       },
-      "November 10, 2026, Tuesday": {
-        "event": "Govardhan Puja",
-        "type": "Religional Festival",
-        "extras": "Kartika, Shukla Pratipada"
-      },
-      "November 11, 2026, Wednesday": {
-        "event": "Bhaiya Dooj",
-        "type": "Religional Festival",
-        "extras": "Kartika, Shukla Dwitiya"
-      },
-      "November 14, 2026, Saturday": {
+      "November 14, 2023, Tuesday": {
         "event": "Children's Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "November 15, 2026, Sunday": {
+      "November 19, 2023, Sunday": {
         "event": "Chhath Puja",
         "type": "Religional Festival",
         "extras": "Kartika, Shukla Shashthi"
       },
-      "November 24, 2026, Tuesday": {
+      "November 27, 2023, Monday": {
         "event": "Guru Nanak Jayanti",
         "type": "Religional Festival",
         "extras": "Kartika, Shukla Purnima"
       }
     },
-    "December 2026": {
-      "December 1, 2026, Tuesday": {
+    "December 2023": {
+      "December 1, 2023, Friday": {
         "event": "World AIDS Day",
         "type": "Good to know",
         "extras": "fixed day in Gregorian calendar"
       },
-      "December 22, 2026, Tuesday": {
+      "December 22, 2023, Friday": {
         "event": "Shortest Day of Year",
         "type": "Religional Festival",
         "extras": "Astronomy Event"
       },
-      "December 23, 2026, Wednesday": {
-        "event": "Hazarat Ali's Birthday",
-        "type": "Religional Festival",
-        "extras": "based on Islamic calendar"
-      },
-      "December 25, 2026, Friday": {
+      "December 25, 2023, Monday": {
         "event": "Merry Christmas",
         "type": "Religional Festival",
         "extras": "fixed day in Gregorian calendar"

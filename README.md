@@ -13,7 +13,7 @@ Collective data of months of bharat's calendar (Indian calendar)
 
 - Good to know days (like National Youth Day)
 - Government holidays
-- All religional festivals
+- All religional festivals (Indicated as type: "Festival")
 - With the most easiest access way a .json file
 
 ## Usage
