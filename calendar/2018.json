@@ -1,0 +1,413 @@
+{
+  "2018": {
+    "January 2018": {
+      "January 1, 2018, Monday": {
+        "event": "English New Year",
+        "type": "Religional Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 8, 2018, Monday": {
+        "event": "Vivekananda Jayanti *Samvat",
+        "type": "Religional Festival",
+        "extras": "Magha, Krishna Saptami"
+      },
+      "January 12, 2018, Friday": {
+        "event": "National Youth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 13, 2018, Saturday": {
+        "event": "Lohri",
+        "type": "Religional Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 14, 2018, Sunday": {
+        "event": "Pongal",
+        "type": "Religional Festival",
+        "extras": "on Makara Sankranti day"
+      },
+      "January 22, 2018, Monday": {
+        "event": "Vasant Panchami",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Panchami"
+      },
+      "January 23, 2018, Tuesday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 26, 2018, Friday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 30, 2018, Tuesday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 31, 2018, Wednesday": {
+        "event": "Guru Ravidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Purnima"
+      }
+    },
+    "February 2018": {
+      "February 4, 2018, Sunday": {
+        "event": "World Cancer Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 10, 2018, Saturday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      },
+      "February 13, 2018, Tuesday": {
+        "event": "Maha Shivaratri",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      },
+      "February 14, 2018, Wednesday": {
+        "event": "Valentine's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 17, 2018, Saturday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
+      },
+      "February 19, 2018, Monday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "March 2018": {
+      "March 1, 2018, Thursday": {
+        "event": "Chaitanya Mahaprabhu Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      },
+      "March 2, 2018, Friday": {
+        "event": "Holi",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Pratipada"
+      },
+      "March 4, 2018, Sunday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 8, 2018, Thursday": {
+        "event": "International Women's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 18, 2018, Sunday": {
+        "event": "Jhulelal Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada/Dwitiya"
+      },
+      "March 20, 2018, Tuesday": {
+        "event": "Parsi New Year",
+        "type": "Religional Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 23, 2018, Friday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 25, 2018, Sunday": {
+        "event": "Rama Navami",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Navami"
+      },
+      "March 29, 2018, Thursday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      },
+      "March 30, 2018, Friday": {
+        "event": "Good Friday",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      }
+    },
+    "April 2018": {
+      "April 1, 2018, Sunday": {
+        "event": "Easter",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 12, 2018, Thursday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      },
+      "April 14, 2018, Saturday": {
+        "event": "Baisakhi",
+        "type": "Religional Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 20, 2018, Friday": {
+        "event": "Surdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Panchami"
+      },
+      "April 22, 2018, Sunday": {
+        "event": "Earth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 30, 2018, Monday": {
+        "event": "Buddha Purnima",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      }
+    },
+    "May 2018": {
+      "May 1, 2018, Tuesday": {
+        "event": "International Workers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 6, 2018, Sunday": {
+        "event": "World Laughter Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of May"
+      },
+      "May 7, 2018, Monday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 13, 2018, Sunday": {
+        "event": "Mother's Day",
+        "type": "Good to know",
+        "extras": "2nd Sunday of May"
+      },
+      "May 31, 2018, Thursday": {
+        "event": "World No Tobacco Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2018": {
+      "June 5, 2018, Tuesday": {
+        "event": "World Environment Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 15, 2018, Friday": {
+        "event": "Ramadan",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "June 16, 2018, Saturday": {
+        "event": "Maharana Pratap Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Tritiya"
+      },
+      "June 17, 2018, Sunday": {
+        "event": "Father's Day",
+        "type": "Good to know",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2018, Thursday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 28, 2018, Thursday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      }
+    },
+    "July 2018": {
+      "July 14, 2018, Saturday": {
+        "event": "Jagannath Rathyatra",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Dwitiya"
+      },
+      "July 27, 2018, Friday": {
+        "event": "Guru Purnima",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      }
+    },
+    "August 2018": {
+      "August 5, 2018, Sunday": {
+        "event": "Friendship Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of August"
+      },
+      "August 15, 2018, Wednesday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 17, 2018, Friday": {
+        "event": "Tulsidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Saptami"
+      },
+      "August 22, 2018, Wednesday": {
+        "event": "Bakrid",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "August 24, 2018, Friday": {
+        "event": "Onam",
+        "type": "Religional Festival",
+        "extras": "Sun in Simha & Shravana Nakshatra"
+      },
+      "August 26, 2018, Sunday": {
+        "event": "Rakhi",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Purnima"
+      }
+    },
+    "September 2018": {
+      "September 2, 2018, Sunday": {
+        "event": "Janmashtami *Smarta",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "September 3, 2018, Monday": {
+        "event": "Janmashtami *ISKCON",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "September 5, 2018, Wednesday": {
+        "event": "Teachers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 12, 2018, Wednesday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "September 13, 2018, Thursday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      },
+      "September 14, 2018, Friday": {
+        "event": "Hindi Diwas",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2018, Saturday": {
+        "event": "Engineer's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 21, 2018, Friday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "September 23, 2018, Sunday": {
+        "event": "Autumnal Equinox",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      }
+    },
+    "October 2018": {
+      "October 2, 2018, Tuesday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 10, 2018, Wednesday": {
+        "event": "Maharaja Agrasen Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Pratipada"
+      },
+      "October 17, 2018, Wednesday": {
+        "event": "Maha Navami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Navami"
+      },
+      "October 19, 2018, Friday": {
+        "event": "Madhvacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 24, 2018, Wednesday": {
+        "event": "Meerabai Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      },
+      "October 27, 2018, Saturday": {
+        "event": "Karwa Chauth",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      }
+    },
+    "November 2018": {
+      "November 6, 2018, Tuesday": {
+        "event": "Narak Chaturdashi",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturdashi"
+      },
+      "November 7, 2018, Wednesday": {
+        "event": "Diwali",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "November 8, 2018, Thursday": {
+        "event": "Govardhan Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Pratipada"
+      },
+      "November 9, 2018, Friday": {
+        "event": "Bhaiya Dooj",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Dwitiya"
+      },
+      "November 13, 2018, Tuesday": {
+        "event": "Chhath Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      },
+      "November 14, 2018, Wednesday": {
+        "event": "Children's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "November 21, 2018, Wednesday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "November 23, 2018, Friday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Purnima"
+      }
+    },
+    "December 2018": {
+      "December 1, 2018, Saturday": {
+        "event": "World AIDS Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 22, 2018, Saturday": {
+        "event": "Shortest Day of Year",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2018, Tuesday": {
+        "event": "Merry Christmas",
+        "type": "Religional Festival",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    }
+  }
+}

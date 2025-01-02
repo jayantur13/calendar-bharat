@@ -1,0 +1,428 @@
+{
+  "2030": {
+    "January 2030": {
+      "January 1, 2030, Tuesday": {
+        "event": "English New Year",
+        "type": "Religional Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 10, 2030, Thursday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Saptami"
+      },
+      "January 12, 2030, Saturday": {
+        "event": "National Youth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 13, 2030, Sunday": {
+        "event": "Lohri",
+        "type": "Religional Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 14, 2030, Monday": {
+        "event": "Pongal",
+        "type": "Religional Festival",
+        "extras": "on Makara Sankranti day"
+      },
+      "January 15, 2030, Tuesday": {
+        "event": "Tailang Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Ekadashi"
+      },
+      "January 23, 2030, Wednesday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 26, 2030, Saturday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 30, 2030, Wednesday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "February 2030": {
+      "February 1, 2030, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "February 4, 2030, Monday": {
+        "event": "World Cancer Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 5, 2030, Tuesday": {
+        "event": "Ramadan",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "February 7, 2030, Thursday": {
+        "event": "Vasant Panchami",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Panchami"
+      },
+      "February 14, 2030, Thursday": {
+        "event": "Valentine's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 18, 2030, Monday": {
+        "event": "Guru Ravidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Purnima"
+      },
+      "February 19, 2030, Tuesday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 27, 2030, Wednesday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      }
+    },
+    "March 2030": {
+      "March 2, 2030, Saturday": {
+        "event": "Maha Shivaratri",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      },
+      "March 6, 2030, Wednesday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
+      },
+      "March 8, 2030, Friday": {
+        "event": "International Women's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 19, 2030, Tuesday": {
+        "event": "Chaitanya Mahaprabhu Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      },
+      "March 20, 2030, Wednesday": {
+        "event": "Parsi New Year",
+        "type": "Religional Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 22, 2030, Friday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 23, 2030, Saturday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "April 2030": {
+      "April 1, 2030, Monday": {
+        "event": "Bank's Holiday",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 3, 2030, Wednesday": {
+        "event": "Gudi Padwa",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada"
+      },
+      "April 4, 2030, Thursday": {
+        "event": "Jhulelal Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada/Dwitiya"
+      },
+      "April 12, 2030, Friday": {
+        "event": "Rama Navami",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Navami"
+      },
+      "April 14, 2030, Sunday": {
+        "event": "Baisakhi",
+        "type": "Religional Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 16, 2030, Tuesday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      },
+      "April 19, 2030, Friday": {
+        "event": "Good Friday",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 21, 2030, Sunday": {
+        "event": "Easter",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 22, 2030, Monday": {
+        "event": "Earth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 28, 2030, Sunday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      }
+    },
+    "May 2030": {
+      "May 1, 2030, Wednesday": {
+        "event": "International Workers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 4, 2030, Saturday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "May 5, 2030, Sunday": {
+        "event": "World Laughter Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of May"
+      },
+      "May 7, 2030, Tuesday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 8, 2030, Wednesday": {
+        "event": "Surdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Panchami"
+      },
+      "May 12, 2030, Sunday": {
+        "event": "Mother's Day",
+        "type": "Good to know",
+        "extras": "2nd Sunday of May"
+      },
+      "May 13, 2030, Monday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "May 17, 2030, Friday": {
+        "event": "Buddha Purnima",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      },
+      "May 31, 2030, Friday": {
+        "event": "World No Tobacco Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2030": {
+      "June 4, 2030, Tuesday": {
+        "event": "Maharana Pratap Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Tritiya"
+      },
+      "June 5, 2030, Wednesday": {
+        "event": "World Environment Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 15, 2030, Saturday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      },
+      "June 16, 2030, Sunday": {
+        "event": "Father's Day",
+        "type": "Good to know",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2030, Friday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "July 2030": {
+      "July 2, 2030, Tuesday": {
+        "event": "Jagannath Rathyatra",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Dwitiya"
+      },
+      "July 13, 2030, Saturday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "July 15, 2030, Monday": {
+        "event": "Guru Purnima",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      }
+    },
+    "August 2030": {
+      "August 4, 2030, Sunday": {
+        "event": "Friendship Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of August"
+      },
+      "August 6, 2030, Tuesday": {
+        "event": "Tulsidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Saptami"
+      },
+      "August 13, 2030, Tuesday": {
+        "event": "Rakhi",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Purnima"
+      },
+      "August 15, 2030, Thursday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 21, 2030, Wednesday": {
+        "event": "Krishna Janmashtami",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      }
+    },
+    "September 2030": {
+      "September 1, 2030, Sunday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      },
+      "September 5, 2030, Thursday": {
+        "event": "Teachers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 9, 2030, Monday": {
+        "event": "Onam",
+        "type": "Religional Festival",
+        "extras": "Sun in Simha & Shravana Nakshatra"
+      },
+      "September 14, 2030, Saturday": {
+        "event": "Hindi Diwas",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2030, Sunday": {
+        "event": "Engineer's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 23, 2030, Monday": {
+        "event": "Autumnal Equinox",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "September 28, 2030, Saturday": {
+        "event": "Maharaja Agrasen Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Pratipada"
+      }
+    },
+    "October 2030": {
+      "October 2, 2030, Wednesday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 4, 2030, Friday": {
+        "event": "Durga Ashtami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Ashtami"
+      },
+      "October 5, 2030, Saturday": {
+        "event": "Maha Navami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Navami"
+      },
+      "October 6, 2030, Sunday": {
+        "event": "Madhvacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 11, 2030, Friday": {
+        "event": "Meerabai Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      },
+      "October 15, 2030, Tuesday": {
+        "event": "Karwa Chauth",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      },
+      "October 26, 2030, Saturday": {
+        "event": "Diwali",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "October 27, 2030, Sunday": {
+        "event": "Govardhan Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Pratipada"
+      },
+      "October 28, 2030, Monday": {
+        "event": "Bhaiya Dooj",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Dwitiya"
+      }
+    },
+    "November 2030": {
+      "November 1, 2030, Friday": {
+        "event": "Chhath Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      },
+      "November 9, 2030, Saturday": {
+        "event": "Hazarat Ali's Birthday",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "November 10, 2030, Sunday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Purnima"
+      },
+      "November 14, 2030, Thursday": {
+        "event": "Children's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "December 2030": {
+      "December 1, 2030, Sunday": {
+        "event": "World AIDS Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 22, 2030, Sunday": {
+        "event": "Shortest Day of Year",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2030, Wednesday": {
+        "event": "Merry Christmas",
+        "type": "Religional Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 30, 2030, Monday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Saptami"
+      }
+    }
+  }
+}

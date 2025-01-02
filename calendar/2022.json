@@ -1,0 +1,423 @@
+{
+  "2022": {
+    "January 2022": {
+      "January 1, 2022, Saturday": {
+        "event": "English New Year",
+        "type": "Religional Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 9, 2022, Sunday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Saptami"
+      },
+      "January 12, 2022, Wednesday": {
+        "event": "National Youth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 13, 2022, Thursday": {
+        "event": "Lohri",
+        "type": "Religional Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 14, 2022, Friday": {
+        "event": "Pongal",
+        "type": "Religional Festival",
+        "extras": "on Makara Sankranti day"
+      },
+      "January 23, 2022, Sunday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 25, 2022, Tuesday": {
+        "event": "Vivekananda Jayanti *Samvat",
+        "type": "Religional Festival",
+        "extras": "Magha, Krishna Saptami"
+      },
+      "January 26, 2022, Wednesday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 30, 2022, Sunday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "February 2022": {
+      "February 4, 2022, Friday": {
+        "event": "World Cancer Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 5, 2022, Saturday": {
+        "event": "Vasant Panchami",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Panchami"
+      },
+      "February 14, 2022, Monday": {
+        "event": "Valentine's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 15, 2022, Tuesday": {
+        "event": "Hazarat Ali's Birthday",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "February 16, 2022, Wednesday": {
+        "event": "Guru Ravidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Purnima"
+      },
+      "February 19, 2022, Saturday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 26, 2022, Saturday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      }
+    },
+    "March 2022": {
+      "March 1, 2022, Tuesday": {
+        "event": "Maha Shivaratri",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      },
+      "March 4, 2022, Friday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
+      },
+      "March 8, 2022, Tuesday": {
+        "event": "International Women's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 17, 2022, Thursday": {
+        "event": "Holika Dahan",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      },
+      "March 18, 2022, Friday": {
+        "event": "Holi",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Pratipada"
+      },
+      "March 20, 2022, Sunday": {
+        "event": "Parsi New Year",
+        "type": "Religional Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 21, 2022, Monday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 23, 2022, Wednesday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "April 2022": {
+      "April 1, 2022, Friday": {
+        "event": "Bank's Holiday",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 2, 2022, Saturday": {
+        "event": "Jhulelal Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada/Dwitiya"
+      },
+      "April 10, 2022, Sunday": {
+        "event": "Rama Navami",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Navami"
+      },
+      "April 14, 2022, Thursday": {
+        "event": "Baisakhi",
+        "type": "Religional Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 15, 2022, Friday": {
+        "event": "Good Friday",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 17, 2022, Sunday": {
+        "event": "Easter",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 22, 2022, Friday": {
+        "event": "Earth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 26, 2022, Tuesday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      },
+      "April 29, 2022, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      }
+    },
+    "May 2022": {
+      "May 1, 2022, Sunday": {
+        "event": "International Workers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 3, 2022, Tuesday": {
+        "event": "Ramadan",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "May 6, 2022, Friday": {
+        "event": "Surdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Panchami"
+      },
+      "May 7, 2022, Saturday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 8, 2022, Sunday": {
+        "event": "Mother's Day",
+        "type": "Good to know",
+        "extras": "2nd Sunday of May"
+      },
+      "May 16, 2022, Monday": {
+        "event": "Buddha Purnima",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      },
+      "May 31, 2022, Tuesday": {
+        "event": "World No Tobacco Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2022": {
+      "June 2, 2022, Thursday": {
+        "event": "Maharana Pratap Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Tritiya"
+      },
+      "June 5, 2022, Sunday": {
+        "event": "World Environment Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 14, 2022, Tuesday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      },
+      "June 19, 2022, Sunday": {
+        "event": "Father's Day",
+        "type": "Good to know",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2022, Tuesday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "July 2022": {
+      "July 1, 2022, Friday": {
+        "event": "Jagannath Rathyatra",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Dwitiya"
+      },
+      "July 10, 2022, Sunday": {
+        "event": "Bakrid",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "July 13, 2022, Wednesday": {
+        "event": "Guru Purnima",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      },
+      "July 30, 2022, Saturday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      }
+    },
+    "August 2022": {
+      "August 4, 2022, Thursday": {
+        "event": "Tulsidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Saptami"
+      },
+      "August 7, 2022, Sunday": {
+        "event": "Friendship Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of August"
+      },
+      "August 8, 2022, Monday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "August 11, 2022, Thursday": {
+        "event": "Rakhi",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Purnima"
+      },
+      "August 15, 2022, Monday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 18, 2022, Thursday": {
+        "event": "Janmashtami *Smarta",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 19, 2022, Friday": {
+        "event": "Janmashtami *ISKCON",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 31, 2022, Wednesday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      }
+    },
+    "September 2022": {
+      "September 5, 2022, Monday": {
+        "event": "Teachers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 8, 2022, Thursday": {
+        "event": "Onam",
+        "type": "Religional Festival",
+        "extras": "Sun in Simha & Shravana Nakshatra"
+      },
+      "September 14, 2022, Wednesday": {
+        "event": "Hindi Diwas",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2022, Thursday": {
+        "event": "Engineer's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 23, 2022, Friday": {
+        "event": "Autumnal Equinox",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "September 26, 2022, Monday": {
+        "event": "Maharaja Agrasen Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Pratipada"
+      }
+    },
+    "October 2022": {
+      "October 2, 2022, Sunday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 3, 2022, Monday": {
+        "event": "Durga Ashtami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Ashtami"
+      },
+      "October 4, 2022, Tuesday": {
+        "event": "Maha Navami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Navami"
+      },
+      "October 5, 2022, Wednesday": {
+        "event": "Madhvacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 8, 2022, Saturday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "October 9, 2022, Sunday": {
+        "event": "Meerabai Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      },
+      "October 13, 2022, Thursday": {
+        "event": "Karwa Chauth",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      },
+      "October 24, 2022, Monday": {
+        "event": "Diwali",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "October 26, 2022, Wednesday": {
+        "event": "Bhaiya Dooj",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Dwitiya"
+      },
+      "October 30, 2022, Sunday": {
+        "event": "Chhath Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      }
+    },
+    "November 2022": {
+      "November 8, 2022, Tuesday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Purnima"
+      },
+      "November 14, 2022, Monday": {
+        "event": "Children's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "December 2022": {
+      "December 1, 2022, Thursday": {
+        "event": "World AIDS Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 22, 2022, Thursday": {
+        "event": "Shortest Day of Year",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2022, Sunday": {
+        "event": "Merry Christmas",
+        "type": "Religional Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 29, 2022, Thursday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Saptami"
+      }
+    }
+  }
+}

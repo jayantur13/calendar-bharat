@@ -1,0 +1,398 @@
+{
+  "2012": {
+    "January 2012": {
+      "January 1, 2012, Sunday": {
+        "event": "English New Year",
+        "type": "Religional Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 4, 2012, Wednesday": {
+        "event": "Tailang Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Ekadashi"
+      },
+      "January 12, 2012, Thursday": {
+        "event": "National Youth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 14, 2012, Saturday": {
+        "event": "Lohri",
+        "type": "Religional Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 15, 2012, Sunday": {
+        "event": "Pongal",
+        "type": "Religional Festival",
+        "extras": "on Makara Sankranti day"
+      },
+      "January 23, 2012, Monday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 26, 2012, Thursday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 28, 2012, Saturday": {
+        "event": "Vasant Panchami",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Panchami"
+      },
+      "January 30, 2012, Monday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "February 2012": {
+      "February 4, 2012, Saturday": {
+        "event": "World Cancer Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 5, 2012, Sunday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "February 7, 2012, Tuesday": {
+        "event": "Guru Ravidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Purnima"
+      },
+      "February 14, 2012, Tuesday": {
+        "event": "Valentine's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 16, 2012, Thursday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      },
+      "February 19, 2012, Sunday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 20, 2012, Monday": {
+        "event": "Maha Shivaratri",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      },
+      "February 23, 2012, Thursday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
+      }
+    },
+    "March 2012": {
+      "March 7, 2012, Wednesday": {
+        "event": "Holika Dahan",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      },
+      "March 8, 2012, Thursday": {
+        "event": "International Women's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 10, 2012, Saturday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 20, 2012, Tuesday": {
+        "event": "Parsi New Year",
+        "type": "Religional Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 23, 2012, Friday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "April 2012": {
+      "April 1, 2012, Sunday": {
+        "event": "Bank's Holiday",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 5, 2012, Thursday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      },
+      "April 6, 2012, Friday": {
+        "event": "Good Friday",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 8, 2012, Sunday": {
+        "event": "Easter",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 13, 2012, Friday": {
+        "event": "Baisakhi",
+        "type": "Religional Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 14, 2012, Saturday": {
+        "event": "Ambedkar Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 16, 2012, Monday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      },
+      "April 22, 2012, Sunday": {
+        "event": "Earth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 26, 2012, Thursday": {
+        "event": "Surdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Panchami"
+      }
+    },
+    "May 2012": {
+      "May 1, 2012, Tuesday": {
+        "event": "International Workers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 6, 2012, Sunday": {
+        "event": "World Laughter Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of May"
+      },
+      "May 7, 2012, Monday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 13, 2012, Sunday": {
+        "event": "Mother's Day",
+        "type": "Good to know",
+        "extras": "2nd Sunday of May"
+      },
+      "May 24, 2012, Thursday": {
+        "event": "Maharana Pratap Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Tritiya"
+      },
+      "May 31, 2012, Thursday": {
+        "event": "World No Tobacco Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2012": {
+      "June 3, 2012, Sunday": {
+        "event": "Hazarat Ali's Birthday",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "June 4, 2012, Monday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      },
+      "June 5, 2012, Tuesday": {
+        "event": "World Environment Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 17, 2012, Sunday": {
+        "event": "Father's Day",
+        "type": "Good to know",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2012, Thursday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "July 2012": {
+      "July 3, 2012, Tuesday": {
+        "event": "Guru Purnima",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      },
+      "July 25, 2012, Wednesday": {
+        "event": "Tulsidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Saptami"
+      }
+    },
+    "August 2012": {
+      "August 2, 2012, Thursday": {
+        "event": "Rakhi",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Purnima"
+      },
+      "August 5, 2012, Sunday": {
+        "event": "Friendship Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of August"
+      },
+      "August 9, 2012, Thursday": {
+        "event": "Janmashtami *Smarta",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 10, 2012, Friday": {
+        "event": "Janmashtami *ISKCON",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 15, 2012, Wednesday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 17, 2012, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "August 19, 2012, Sunday": {
+        "event": "Ramadan",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "August 29, 2012, Wednesday": {
+        "event": "Onam",
+        "type": "Religional Festival",
+        "extras": "Sun in Simha & Shravana Nakshatra"
+      }
+    },
+    "September 2012": {
+      "September 5, 2012, Wednesday": {
+        "event": "Teachers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 14, 2012, Friday": {
+        "event": "Hindi Diwas",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2012, Saturday": {
+        "event": "Engineer's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 19, 2012, Wednesday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      },
+      "September 22, 2012, Saturday": {
+        "event": "Autumnal Equinox",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      }
+    },
+    "October 2012": {
+      "October 2, 2012, Tuesday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 16, 2012, Tuesday": {
+        "event": "Maharaja Agrasen Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Pratipada"
+      },
+      "October 22, 2012, Monday": {
+        "event": "Durga Ashtami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Ashtami"
+      },
+      "October 23, 2012, Tuesday": {
+        "event": "Maha Navami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Navami"
+      },
+      "October 24, 2012, Wednesday": {
+        "event": "Madhvacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 26, 2012, Friday": {
+        "event": "Bakrid",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "October 29, 2012, Monday": {
+        "event": "Meerabai Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      }
+    },
+    "November 2012": {
+      "November 2, 2012, Friday": {
+        "event": "Karwa Chauth",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      },
+      "November 13, 2012, Tuesday": {
+        "event": "Diwali",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "November 14, 2012, Wednesday": {
+        "event": "Children's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "November 15, 2012, Thursday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "November 19, 2012, Monday": {
+        "event": "Chhath Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      },
+      "November 24, 2012, Saturday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "November 28, 2012, Wednesday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Purnima"
+      }
+    },
+    "December 2012": {
+      "December 1, 2012, Saturday": {
+        "event": "World AIDS Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 21, 2012, Friday": {
+        "event": "Shortest Day of Year",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2012, Tuesday": {
+        "event": "Merry Christmas",
+        "type": "Religional Festival",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    }
+  }
+}

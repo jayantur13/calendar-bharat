@@ -1,0 +1,403 @@
+{
+  "2014": {
+    "January 2014": {
+      "January 1, 2014, Wednesday": {
+        "event": "English New Year",
+        "type": "Religional Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 7, 2014, Tuesday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Saptami"
+      },
+      "January 11, 2014, Saturday": {
+        "event": "Tailang Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Ekadashi"
+      },
+      "January 12, 2014, Sunday": {
+        "event": "National Youth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 13, 2014, Monday": {
+        "event": "Lohri",
+        "type": "Religional Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 14, 2014, Tuesday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "January 23, 2014, Thursday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 26, 2014, Sunday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 30, 2014, Thursday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "February 2014": {
+      "February 4, 2014, Tuesday": {
+        "event": "World Cancer Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 14, 2014, Friday": {
+        "event": "Valentine's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 19, 2014, Wednesday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 24, 2014, Monday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      },
+      "February 27, 2014, Thursday": {
+        "event": "Maha Shivaratri",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      }
+    },
+    "March 2014": {
+      "March 3, 2014, Monday": {
+        "event": "Ramakrishna Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Dwitiya"
+      },
+      "March 8, 2014, Saturday": {
+        "event": "International Women's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 16, 2014, Sunday": {
+        "event": "Chaitanya Mahaprabhu Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      },
+      "March 17, 2014, Monday": {
+        "event": "Holi",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Pratipada"
+      },
+      "March 19, 2014, Wednesday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 20, 2014, Thursday": {
+        "event": "Parsi New Year",
+        "type": "Religional Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 23, 2014, Sunday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 31, 2014, Monday": {
+        "event": "Gudi Padwa",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada"
+      }
+    },
+    "April 2014": {
+      "April 1, 2014, Tuesday": {
+        "event": "Bank's Holiday",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 8, 2014, Tuesday": {
+        "event": "Rama Navami",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Navami"
+      },
+      "April 13, 2014, Sunday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      },
+      "April 14, 2014, Monday": {
+        "event": "Baisakhi",
+        "type": "Religional Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 18, 2014, Friday": {
+        "event": "Good Friday",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 20, 2014, Sunday": {
+        "event": "Easter",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 22, 2014, Tuesday": {
+        "event": "Earth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 25, 2014, Friday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      }
+    },
+    "May 2014": {
+      "May 1, 2014, Thursday": {
+        "event": "International Workers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 4, 2014, Sunday": {
+        "event": "World Laughter Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of May"
+      },
+      "May 7, 2014, Wednesday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 11, 2014, Sunday": {
+        "event": "Mother's Day",
+        "type": "Good to know",
+        "extras": "2nd Sunday of May"
+      },
+      "May 13, 2014, Tuesday": {
+        "event": "Hazarat Ali's Birthday",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "May 14, 2014, Wednesday": {
+        "event": "Buddha Purnima",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      },
+      "May 31, 2014, Saturday": {
+        "event": "World No Tobacco Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2014": {
+      "June 5, 2014, Thursday": {
+        "event": "World Environment Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 13, 2014, Friday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      },
+      "June 15, 2014, Sunday": {
+        "event": "Father's Day",
+        "type": "Good to know",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2014, Saturday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 29, 2014, Sunday": {
+        "event": "Jagannath Rathyatra",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Dwitiya"
+      }
+    },
+    "July 2014": {
+      "July 12, 2014, Saturday": {
+        "event": "Guru Purnima",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      },
+      "July 25, 2014, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "July 29, 2014, Tuesday": {
+        "event": "Ramadan",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      }
+    },
+    "August 2014": {
+      "August 3, 2014, Sunday": {
+        "event": "Friendship Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of August"
+      },
+      "August 10, 2014, Sunday": {
+        "event": "Rakhi",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Purnima"
+      },
+      "August 15, 2014, Friday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 17, 2014, Sunday": {
+        "event": "Janmashtami *Smarta",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 18, 2014, Monday": {
+        "event": "Janmashtami *ISKCON",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "August 29, 2014, Friday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      }
+    },
+    "September 2014": {
+      "September 5, 2014, Friday": {
+        "event": "Teachers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 6, 2014, Saturday": {
+        "event": "Onam",
+        "type": "Religional Festival",
+        "extras": "Sun in Simha & Shravana Nakshatra"
+      },
+      "September 14, 2014, Sunday": {
+        "event": "Hindi Diwas",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2014, Monday": {
+        "event": "Engineer's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 23, 2014, Tuesday": {
+        "event": "Autumnal Equinox",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "September 25, 2014, Thursday": {
+        "event": "Maharaja Agrasen Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Pratipada"
+      }
+    },
+    "October 2014": {
+      "October 2, 2014, Thursday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 3, 2014, Friday": {
+        "event": "Dussehra",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 4, 2014, Saturday": {
+        "event": "Madhvacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 5, 2014, Sunday": {
+        "event": "Bakrid",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "October 8, 2014, Wednesday": {
+        "event": "Meerabai Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      },
+      "October 11, 2014, Saturday": {
+        "event": "Karwa Chauth",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      },
+      "October 22, 2014, Wednesday": {
+        "event": "Narak Chaturdashi",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturdashi"
+      },
+      "October 23, 2014, Thursday": {
+        "event": "Diwali",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "October 24, 2014, Friday": {
+        "event": "Govardhan Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Pratipada"
+      },
+      "October 25, 2014, Saturday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "October 29, 2014, Wednesday": {
+        "event": "Chhath Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      }
+    },
+    "November 2014": {
+      "November 3, 2014, Monday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "November 6, 2014, Thursday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Purnima"
+      },
+      "November 14, 2014, Friday": {
+        "event": "Children's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "December 2014": {
+      "December 1, 2014, Monday": {
+        "event": "World AIDS Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 22, 2014, Monday": {
+        "event": "Shortest Day of Year",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2014, Thursday": {
+        "event": "Merry Christmas",
+        "type": "Religional Festival",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 28, 2014, Sunday": {
+        "event": "Guru Gobind Singh Jayanti",
+        "type": "Religional Festival",
+        "extras": "Pausha, Shukla Saptami"
+      }
+    }
+  }
+}

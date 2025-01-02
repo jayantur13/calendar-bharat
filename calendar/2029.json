@@ -1,0 +1,408 @@
+{
+  "2029": {
+    "January 2029": {
+      "January 1, 2029, Monday": {
+        "event": "English New Year",
+        "type": "Religional Festival",
+        "extras": "first day of Gregorian calendar"
+      },
+      "January 7, 2029, Sunday": {
+        "event": "Vivekananda Jayanti *Samvat",
+        "type": "Religional Festival",
+        "extras": "Magha, Krishna Saptami"
+      },
+      "January 12, 2029, Friday": {
+        "event": "National Youth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 13, 2029, Saturday": {
+        "event": "Lohri",
+        "type": "Religional Festival",
+        "extras": "day before Makara Sankranti"
+      },
+      "January 14, 2029, Sunday": {
+        "event": "Pongal",
+        "type": "Religional Festival",
+        "extras": "on Makara Sankranti day"
+      },
+      "January 19, 2029, Friday": {
+        "event": "Vasant Panchami",
+        "type": "Religional Festival",
+        "extras": "Magha, Shukla Panchami"
+      },
+      "January 23, 2029, Tuesday": {
+        "event": "Subhas Chandra Bose Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 26, 2029, Friday": {
+        "event": "Republic Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "January 30, 2029, Tuesday": {
+        "event": "Gandhi Punyatithi",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "February 2029": {
+      "February 4, 2029, Sunday": {
+        "event": "World Cancer Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 8, 2029, Thursday": {
+        "event": "Maharishi Dayanand Saraswati Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Dashami"
+      },
+      "February 9, 2029, Friday": {
+        "event": "Jamat Ul-Vida",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "February 11, 2029, Sunday": {
+        "event": "Maha Shivaratri",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Krishna Chaturdashi"
+      },
+      "February 14, 2029, Wednesday": {
+        "event": "Valentine's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 15, 2029, Thursday": {
+        "event": "Ramadan",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "February 19, 2029, Monday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "February 28, 2029, Wednesday": {
+        "event": "Chaitanya Mahaprabhu Jayanti",
+        "type": "Religional Festival",
+        "extras": "Phalguna, Shukla Purnima"
+      }
+    },
+    "March 2029": {
+      "March 1, 2029, Thursday": {
+        "event": "Holi",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Pratipada"
+      },
+      "March 3, 2029, Saturday": {
+        "event": "Chhatrapati Shivaji Maharaj Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Krishna Tritiya"
+      },
+      "March 8, 2029, Thursday": {
+        "event": "International Women's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 20, 2029, Tuesday": {
+        "event": "Parsi New Year",
+        "type": "Religional Festival",
+        "extras": "based on Parsi calendar"
+      },
+      "March 23, 2029, Friday": {
+        "event": "Shaheed Diwas",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "March 30, 2029, Friday": {
+        "event": "Good Friday",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      }
+    },
+    "April 2029": {
+      "April 1, 2029, Sunday": {
+        "event": "Easter",
+        "type": "Religional Festival",
+        "extras": "based on Christian calendar"
+      },
+      "April 14, 2029, Saturday": {
+        "event": "Baisakhi",
+        "type": "Religional Festival",
+        "extras": "observed on Mesha Sankranti"
+      },
+      "April 15, 2029, Sunday": {
+        "event": "Jhulelal Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Pratipada/Dwitiya"
+      },
+      "April 22, 2029, Sunday": {
+        "event": "Earth Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "April 23, 2029, Monday": {
+        "event": "Rama Navami",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Navami"
+      },
+      "April 24, 2029, Tuesday": {
+        "event": "Bakrid",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "April 26, 2029, Thursday": {
+        "event": "Mahavir Swami Jayanti",
+        "type": "Religional Festival",
+        "extras": "Chaitra, Shukla Trayodashi"
+      }
+    },
+    "May 2029": {
+      "May 1, 2029, Tuesday": {
+        "event": "International Workers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 6, 2029, Sunday": {
+        "event": "World Laughter Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of May"
+      },
+      "May 7, 2029, Monday": {
+        "event": "Rabindranath Tagore Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "May 9, 2029, Wednesday": {
+        "event": "Vallabhacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Krishna Ekadashi"
+      },
+      "May 13, 2029, Sunday": {
+        "event": "Mother's Day",
+        "type": "Good to know",
+        "extras": "2nd Sunday of May"
+      },
+      "May 15, 2029, Tuesday": {
+        "event": "Islamic New Year",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "May 18, 2029, Friday": {
+        "event": "Surdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Panchami"
+      },
+      "May 24, 2029, Thursday": {
+        "event": "Muharram",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "May 27, 2029, Sunday": {
+        "event": "Buddha Purnima",
+        "type": "Religional Festival",
+        "extras": "Vaishakha, Shukla Purnima"
+      },
+      "May 31, 2029, Thursday": {
+        "event": "World No Tobacco Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    },
+    "June 2029": {
+      "June 5, 2029, Tuesday": {
+        "event": "World Environment Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 15, 2029, Friday": {
+        "event": "Maharana Pratap Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Tritiya"
+      },
+      "June 17, 2029, Sunday": {
+        "event": "Father's Day",
+        "type": "Good to know",
+        "extras": "3rd Sunday of June"
+      },
+      "June 21, 2029, Thursday": {
+        "event": "International Yoga Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "June 26, 2029, Tuesday": {
+        "event": "Kabirdas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Jyeshtha, Shukla Purnima"
+      }
+    },
+    "July 2029": {
+      "July 13, 2029, Friday": {
+        "event": "Jagannath Rathyatra",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Dwitiya"
+      },
+      "July 24, 2029, Tuesday": {
+        "event": "Eid-e-Milad",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "July 25, 2029, Wednesday": {
+        "event": "Guru Purnima",
+        "type": "Religional Festival",
+        "extras": "Ashadha, Shukla Purnima"
+      }
+    },
+    "August 2029": {
+      "August 5, 2029, Sunday": {
+        "event": "Friendship Day",
+        "type": "Good to know",
+        "extras": "1st Sunday of August"
+      },
+      "August 15, 2029, Wednesday": {
+        "event": "Independence Day",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "August 16, 2029, Thursday": {
+        "event": "Tulsidas Jayanti",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Saptami"
+      },
+      "August 22, 2029, Wednesday": {
+        "event": "Onam",
+        "type": "Religional Festival",
+        "extras": "Sun in Simha & Shravana Nakshatra"
+      },
+      "August 23, 2029, Thursday": {
+        "event": "Rakhi",
+        "type": "Religional Festival",
+        "extras": "Shravana, Shukla Purnima"
+      }
+    },
+    "September 2029": {
+      "September 1, 2029, Saturday": {
+        "event": "Krishna Janmashtami",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Krishna Ashtami"
+      },
+      "September 5, 2029, Wednesday": {
+        "event": "Teachers' Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 11, 2029, Tuesday": {
+        "event": "Ganesh Chaturthi",
+        "type": "Religional Festival",
+        "extras": "Bhadrapada, Shukla Chaturthi"
+      },
+      "September 14, 2029, Friday": {
+        "event": "Hindi Diwas",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 15, 2029, Saturday": {
+        "event": "Engineer's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "September 22, 2029, Saturday": {
+        "event": "Autumnal Equinox",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      }
+    },
+    "October 2029": {
+      "October 2, 2029, Tuesday": {
+        "event": "Gandhi Jayanti",
+        "type": "Government Holiday",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "October 8, 2029, Monday": {
+        "event": "Maharaja Agrasen Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Pratipada"
+      },
+      "October 14, 2029, Sunday": {
+        "event": "Durga Ashtami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Ashtami"
+      },
+      "October 15, 2029, Monday": {
+        "event": "Maha Navami",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Navami"
+      },
+      "October 16, 2029, Tuesday": {
+        "event": "Madhvacharya Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Dashami"
+      },
+      "October 22, 2029, Monday": {
+        "event": "Meerabai Jayanti",
+        "type": "Religional Festival",
+        "extras": "Ashwina, Shukla Purnima"
+      },
+      "October 26, 2029, Friday": {
+        "event": "Karwa Chauth",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Chaturthi"
+      }
+    },
+    "November 2029": {
+      "November 5, 2029, Monday": {
+        "event": "Diwali",
+        "type": "Religional Festival",
+        "extras": "Kartika, Krishna Amavasya"
+      },
+      "November 6, 2029, Tuesday": {
+        "event": "Govardhan Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Pratipada"
+      },
+      "November 7, 2029, Wednesday": {
+        "event": "Bhaiya Dooj",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Dwitiya"
+      },
+      "November 11, 2029, Sunday": {
+        "event": "Chhath Puja",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Shashthi"
+      },
+      "November 14, 2029, Wednesday": {
+        "event": "Children's Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "November 20, 2029, Tuesday": {
+        "event": "Hazarat Ali's Birthday",
+        "type": "Religional Festival",
+        "extras": "based on Islamic calendar"
+      },
+      "November 21, 2029, Wednesday": {
+        "event": "Guru Nanak Jayanti",
+        "type": "Religional Festival",
+        "extras": "Kartika, Shukla Purnima"
+      }
+    },
+    "December 2029": {
+      "December 1, 2029, Saturday": {
+        "event": "World AIDS Day",
+        "type": "Good to know",
+        "extras": "fixed day in Gregorian calendar"
+      },
+      "December 21, 2029, Friday": {
+        "event": "Shortest Day of Year",
+        "type": "Religional Festival",
+        "extras": "Astronomy Event"
+      },
+      "December 25, 2029, Tuesday": {
+        "event": "Merry Christmas",
+        "type": "Religional Festival",
+        "extras": "fixed day in Gregorian calendar"
+      }
+    }
+  }
+}
