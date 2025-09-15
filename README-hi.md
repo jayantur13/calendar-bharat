@@ -2,7 +2,7 @@
 
 भारतीय कैलेंडर के महीनों के संगठित डेटा
 
-#### इस फ़ाइल को [अंग्रेजी मे पढ़े](https://github.com/jayantur13/calendar-bharat/blob/master/README.md)
+#### इस फ़ाइल को [अंग्रेजी मे पढ़े](https://github.com/jayantur13/calendar-bharat/blob/main/README.md)
 
 ## यह पेज लाईव है
 
@@ -22,15 +22,15 @@
 
 ## बदलाव
 
-सभी परिवर्तनों को यहा पर [पढ़ें](https://github.com/jayantur13/calendar-bharat/blob/master/CHANGELOG.md)
+सभी परिवर्तनों को यहा पर [पढ़ें](https://github.com/jayantur13/calendar-bharat/blob/main/CHANGELOG.md)
 
 ## योगदान
 
 योगदान हमेशा स्वागत है!
 
-शुरू करने के तरीकों के लिए [contributing.md](https://github.com/jayantur13/calendar-bharat/blob/master/CONTRIBUTING.md) देखें
+शुरू करने के तरीकों के लिए [contributing.md](https://github.com/jayantur13/calendar-bharat/blob/main/CONTRIBUTING.md) देखें
 
-कृपया इस प्रोजेक्ट के [code of conduct](https://github.com/jayantur13/calendar-bharat/blob/master/CODE_OF_CONDUCT.md) का पालन करें
+कृपया इस प्रोजेक्ट के [code of conduct](https://github.com/jayantur13/calendar-bharat/blob/main/CODE_OF_CONDUCT.md) का पालन करें
 
 ## अन्य नोट
 
@@ -41,4 +41,4 @@
 
 ## लाइसेंस
 
-यह प्रोजेक्ट [CC BY-SA 4.0 International](https://github.com/jayantur13/calendar-bharat/blob/master/LICENSE.md) लाइसेंस के तहत लाइसेंसित है
+यह प्रोजेक्ट [CC BY-SA 4.0 International](https://github.com/jayantur13/calendar-bharat/blob/main/LICENSE.md) लाइसेंस के तहत लाइसेंसित है

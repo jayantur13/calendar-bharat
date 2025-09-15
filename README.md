@@ -2,7 +2,7 @@
 
 Collective data of months of bharat's calendar (Indian calendar)
 
-#### Click [Hindi Readme](https://github.com/jayantur13/calendar-bharat/blob/master/README-hi.md) for readme in hindi language
+#### Click [Hindi Readme](https://github.com/jayantur13/calendar-bharat/blob/main/README-hi.md) for readme in hindi language
 
 ## This page is live at
 
@@ -22,15 +22,15 @@ Collective data of months of bharat's calendar (Indian calendar)
 
 ## Changelog
 
-Read all the changes made [here](https://github.com/jayantur13/calendar-bharat/blob/master/CHANGELOG.md)
+Read all the changes made [here](https://github.com/jayantur13/calendar-bharat/blob/main/CHANGELOG.md)
 
 ## Contributing
 
 Contributions are always welcome!
 
-See [contributing.md](https://github.com/jayantur13/calendar-bharat/blob/master/CONTRIBUTING.md) for ways to get started.
+See [contributing.md](https://github.com/jayantur13/calendar-bharat/blob/main/CONTRIBUTING.md) for ways to get started.
 
-Please adhere to this project's [code of conduct](https://github.com/jayantur13/calendar-bharat/blob/master/CODE_OF_CONDUCT.md).
+Please adhere to this project's [code of conduct](https://github.com/jayantur13/calendar-bharat/blob/main/CODE_OF_CONDUCT.md).
 
 ## Notes
 
@@ -41,4 +41,4 @@ Please adhere to this project's [code of conduct](https://github.com/jayantur13/
 
 ## License
 
-This project is license under the [CC BY-SA 4.0 International](https://github.com/jayantur13/calendar-bharat/blob/master/LICENSE.md) license
+This project is license under the [CC BY-SA 4.0 International](https://github.com/jayantur13/calendar-bharat/blob/main/LICENSE.md) license

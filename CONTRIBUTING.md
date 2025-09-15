@@ -1,6 +1,6 @@
 ## Contributing to project
 
-Before contributing also read [Code Of Conduct](https://github.com/jayantur13/calendar-bharat/blob/master/CODE_OF_CONDUCT.md).All types of input are welcome,whether it is -
+Before contributing also read [Code Of Conduct](https://github.com/jayantur13/calendar-bharat/blob/main/CODE_OF_CONDUCT.md).All types of input are welcome,whether it is -
 
 - To open a new issue.
 - Proposing new features.
@@ -22,4 +22,4 @@ Before contributing also read [Code Of Conduct](https://github.com/jayantur13/ca
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [CC BY-SA 4.0 International](https://github.com/jayantur13/calendar-bharat/blob/master/LICENSE.md) license
+By contributing, you agree that your contributions will be licensed under the [CC BY-SA 4.0 International](https://github.com/jayantur13/calendar-bharat/blob/main/LICENSE.md) license

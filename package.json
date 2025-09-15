@@ -21,10 +21,10 @@
   "license": "CC-BY-SA-4.0",
   "dependencies": {
     "axios": "^1.7.9",
-    "cheerio": "^1.0.0",
-    "express": "^4.21.2"
+    "cheerio": "^1.1.2",
+    "express": "^5.1.0"
   },
   "devDependencies": {
-    "nodemon": "^3.1.9"
+    "nodemon": "^3.1.10"
   }
 }
